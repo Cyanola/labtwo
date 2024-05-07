@@ -7,3 +7,4 @@
 - [x] Слайды - [Слайды](https://github.com/Cyanola/Slider/tree/Develop)
 - [x] Наблюдатель - [Наблюдатель](https://github.com/Cyanola/Observer/tree/Develop)
 - [x] Декоратор (фигуры) - [Декоратор](https://github.com/Cyanola/Shapes_programmingTechnology/tree/task8_Decorator)
+- [x] Тесты - [Тесты](https://github.com/Cyanola/TestShapes/tree/develop)
