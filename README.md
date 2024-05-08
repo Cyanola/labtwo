@@ -8,4 +8,4 @@
 - [x] Наблюдатель - [Наблюдатель](https://github.com/Cyanola/Observer/tree/Develop)
 - [x] Декоратор (фигуры) - [Декоратор](https://github.com/Cyanola/Shapes_programmingTechnology/tree/task8_Decorator)
 - [x] Тесты - [Тесты](https://github.com/Cyanola/TestShapes/tree/develop)
-- [x] Курсовой проект - [Разработка веб-сервиса учета посещаемости](https://github.com/Cyanola/Attendance_tracking.Spring_microservice.Course-project)
+- [x] Курсовой проект - [Разработка веб-сервиса учета посещаемости](https://github.com/Cyanola/Attendance_tracking.Spring_microservice.Course-project/tree/Develop)
