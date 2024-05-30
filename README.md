@@ -10,4 +10,5 @@
 - [x] Тесты - [Тесты](https://github.com/Cyanola/TestShapes/tree/develop)
 - [x] Цепочка обязанностей - [Игра](https://github.com/Cyanola/Shapes_programmingTechnology/tree/task14_-responsibility-chain)
 - [x] Метеосервер - [Метеосервер](https://github.com/Cyanola/MeteoServer)
+- [x] Компоновщик (музыкальный плейлист) - [Компоновщик](https://github.com/Cyanola/Composite) 
 - [x] Курсовой проект - [Разработка веб-сервиса учета посещаемости](https://github.com/Cyanola/Attendance_tracking.Spring_microservice.Course-project/tree/Develop)
